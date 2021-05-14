@@ -1,0 +1,20 @@
+<Generation>
+  <autosave>true</autosave>
+  <timescale>5</timescale>
+  <DefaultTimeLimit>40</DefaultTimeLimit>
+  <ExtraTimeAfterDistance>40</ExtraTimeAfterDistance>
+  <GenerateCrazyStones>false</GenerateCrazyStones>
+  <AutoEndTestDistanceTravelled>true</AutoEndTestDistanceTravelled>
+  <AutoEndTestDistanceTravelledLimit>1400</AutoEndTestDistanceTravelledLimit>
+  <InfoPanel>true</InfoPanel>
+  <Camera>true</Camera>
+  <SpeedoMeter>false</SpeedoMeter>
+  <nnDrawer>true</nnDrawer>
+  <JoyStick>false</JoyStick>
+  <FileComment>1400</FileComment>
+  <LineDetection>false</LineDetection>
+  <Use_LineDetection_Points>false</Use_LineDetection_Points>
+  <Auto_Start>true</Auto_Start>
+  <Tupel>7-5-5-2</Tupel>
+  <savefilename>raytestet-7-5-5-2.xml</savefilename>
+</Generation>

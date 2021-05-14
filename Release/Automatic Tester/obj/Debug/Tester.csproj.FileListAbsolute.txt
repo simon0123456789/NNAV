@@ -1,0 +1,7 @@
+C:\Users\nomis\source\repos\Tester\bin\Debug\Tester.exe.config
+C:\Users\nomis\source\repos\Tester\bin\Debug\Tester.exe
+C:\Users\nomis\source\repos\Tester\bin\Debug\Tester.pdb
+C:\Users\nomis\source\repos\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\nomis\source\repos\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+C:\Users\nomis\source\repos\Tester\obj\Debug\Tester.exe
+C:\Users\nomis\source\repos\Tester\obj\Debug\Tester.pdb

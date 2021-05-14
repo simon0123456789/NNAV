@@ -1,0 +1,50 @@
+<Settings>
+	<General>
+		<Tupel>7-5-5-2</Tupel>
+		<TimeScale>2</TimeScale>
+		<AutoStart>true23923</AutoStart>
+		<AutoCloseMenuAtStart>false</AutoCloseMenuAtStart>
+		<DistanceGoal Enabled="true">1400</DistanceGoal>
+		<FitnessGoal Enabled="false">1400</FitnessGoal>
+		<TimeLimits Default="40" Extra="50"/>
+	</General>
+	
+	<FileHandler>
+		<SaveFile AutoSave="true">data.xml</SaveFile>
+		<LoadFile LoadOnStart="false">loadthis.xml</LoadFile>
+	</FileHandler>
+  
+	<GUI>
+		<InfoPanel>true</InfoPanel>
+		<Camera>true</Camera>
+		<SpeedoMeter>false</SpeedoMeter>
+		<nnDrawer>false</nnDrawer>
+		<JoyStick>false</JoyStick>
+	</GUI>
+  
+	<Input>
+		<LineDetection>false</LineDetection>
+		<DistanceRays>true</DistanceRays>
+	</Input>
+  
+	<Spawn>
+		<CrazyStones>false</CrazyStones>
+		<DefaultRocks>false</DefaultRocks>
+		<Ramp>false</Ramp>
+		<TestingRocks>false</TestingRocks>
+	</Spawn>
+	
+	<Rays>
+		<Distance>25</Distance>
+		<FOV>90</FOV>´
+		<FixMaxDistanceBug>true</FixMaxDistanceBug>
+	</Rays>
+	
+	<UpdateTimeScale WhenDistance="0" WhenFitness="0" WhenIRLTime="0" WhenSimTime="0">2</UpdateTimeScale>
+  
+	<FileComment>
+		Timescale starts at 5, but will be lowered to 2 or 2.5 after 2 IRL hour. 
+		Crazy Stones will be spawned.
+	</FileComment>
+	
+</Settings>
