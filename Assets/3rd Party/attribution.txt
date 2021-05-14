@@ -1,0 +1,46 @@
+
+---------
+Henrik Syvertsson & Simon Hellner
+Karlstad University
+2021
+
+NNAV - Neural Network for Autonomous Vehicles
+Bachelor of Science Degree Project
+---------------
+
+
+
+=== Official Unity Packages & Assets ===
+
+Vehicle Tools
+for racing track, and basis of scene
+https://assetstore.unity.com/packages/essentials/tutorial-projects/vehicle-tools-83660
+
+Cinemachine
+for 3rd person camera for car
+https://unity.com/unity/features/editor/art-and-design/cinemachine
+
+
+
+
+=== Free-to-use Assets ===
+
+speedometer
+visuals, for displaying car speed
+https://github.com/TheDeveloper10/Unity-Speedometer
+
+SimpleInput
+for virtual input, to provide manual continuous input to car, in absence of controllers
+https://assetstore.unity.com/packages/tools/input-management/simple-input-system-113033
+
+
+
+
+
+
+
+
+
+
+
+

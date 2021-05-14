@@ -1,0 +1,49 @@
+3
+[Types]
+Button
+Button
+Button
+[Names]
+New_Element_0
+New_Element_1
+New_Element_2
+[Content]
+Center
+Up Center
+Down Center
+[Snaps]
+Center
+Center
+Center
+[Rects]
+0,0,200,50
+0,-55,200,50
+0,55,200,50
+[Leights]
+10
+10
+10
+[Mask]
+*
+*
+*
+[Sliders]
+0
+0
+0
+[Min Values]
+0
+0
+0
+[Max Values]
+5
+5
+5
+[Window ID]
+0
+0
+0
+[Win Drag]
+False
+False
+False
